@@ -8,7 +8,7 @@ function App(): JSX.Element {
         pomodoroTime={1500}
         shortRestTime={300}
         longRestTime={900}
-        cycle={4}
+        cycles={4}
       />
     </div>
   );
